@@ -1,16 +1,15 @@
-## Hi there 👋
+# Jeff Newberry
 
-<!--
-**jeffnewberry/jeffnewberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a criminal defense lawyer in Houston. Most of my work is capital post-conviction litigation, and I teach law students to write the documents defense lawyers actually file.
 
-Here are some ideas to get you started:
+Everything here is free to copy, adapt, and share.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What is here
+
+**[litigation-skills](https://github.com/jeffnewberry/litigation-skills)**: Claude skills I built for my own litigation work.
+
+- A Bluebook citation checker
+- A cite viewer that opens each cited passage beside your draft
+- Companion filings (appendix, stay motion, IFP motion, and proposed order) built to match a main pleading
+
+**[teaching](https://github.com/jeffnewberry/teaching)**: course materials, starting with the syllabus for Writing for Criminal Defense. In that one-semester course, students take a real criminal case from a motion to suppress through an appellate brief.
